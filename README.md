@@ -1,4 +1,5 @@
 # hello-world
 git tutorial
 
-New message.
+-- Deleted --
+-- Added --
